@@ -8,7 +8,7 @@ Welcome to my Github page! My name is Alejandro, and I am about to start my mast
 I'm a Biomedical and Electronic Engineer with research experience in applied artificial intelligence (**Machine Learning** and **Deep Learning**), and skills in digital signal and image processing, particularly in healthcare applications. Additionally, ***passionate*** about computing in general, with industry experience in data science workflows and technologies related to backend development with Python.
 
 #### 🎯 Some things I am currently working on: 
-- 🩻 Research on applied Artificial Intelligence at [@BIMCV-CSUSP](https://github.com/BIMCV-CSUSP)
+- 🩻 Research on applied Artificial Intelligence
 - 💾 Taking online courses about Databases and Data Engineering
 - 🏋🏽 A computer vision app to assess olympic lifting performance
 
